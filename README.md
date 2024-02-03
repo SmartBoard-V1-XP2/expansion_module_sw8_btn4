@@ -1,4 +1,4 @@
-# Expansion odule : 8 position rotary switch and 4 buttons 
+# Expansion odule : 8-position rotary switch and 4 buttons 
 
 Control Input Module for Smartboard
 
@@ -8,10 +8,10 @@ Control Input Module for Smartboard
 ![license](https://img.shields.io/badge/license-MIT-green)
 
 ## Overview
-This repository hosts the design and implementation details of a Control Input Module for the smartboard. Incorporating an 8-position switch, 4 buttons, and a single digit 7-segment display, this module is powered by an ATtiny48 microcontroller. It is designed to serve as a versatile control interface for smartboard applications, utilizing two smartboard connectors for enhanced functionality.
+This repository hosts the design and implementation details of a Control Input Module for the smartboard. Incorporating an 8-position rotary switch, 4 buttons, and a single digit 7-segment display, this module is powered by an ATtiny48 microcontroller. It is designed to serve as a versatile control interface for smartboard applications, utilizing two smartboard connectors for enhanced functionality.
 
 ## Key Features
-- **8-Position Switch and 4 Buttons**: Provides a comprehensive set of inputs for control and selection tasks.
+- **8-Position rotary Switch and 4 Buttons**: Provides a comprehensive set of inputs for control and selection tasks.
 - **Single Digit 7-Segment Display**: Offers visual feedback for settings or values.
 - **ATtiny48 Microcontroller**: A compact, low-power microcontroller from Microchip, known for its versatility and efficiency in handling I/O operations, making it ideal for embedded applications.
 - **Smartboard Compatibility**: Designed to connect seamlessly with two smartboard connectors, facilitating easy integration with existing systems.
