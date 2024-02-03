@@ -1,4 +1,4 @@
-# Expansion odule : 8 position switch and 4 buttons 
+# Expansion odule : 8 position rotary switch and 4 buttons 
 
 Control Input Module for Smartboard
 
